@@ -10,7 +10,7 @@ html {
 }
 
 body {
-	background-color: #0084ff;
+	background-color: #dce2c0;
 	font-size: 18px;
 	font-family: "Open Sans", sans-serif;
 	padding: 0;
@@ -137,7 +137,8 @@ h1 {
 }
 
 header {
-	background-color: #333;
+	background-color: #800000;
+	height: 100px;
 }
 
 header #menu {
@@ -232,7 +233,8 @@ main .card {
 	color: #333;
 	padding: 1rem;
 	border-radius: 0.25rem;
-	width: calc(100%-2rem);
+	width: 500px;
+	height: 200px;
 }
 
 main .card button {
@@ -424,5 +426,6 @@ footer {
 
 #profile{
 	float: right;
+	padding: 10px;
+}	
 
-}

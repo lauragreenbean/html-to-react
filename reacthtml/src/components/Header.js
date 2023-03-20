@@ -9,7 +9,7 @@ class Header extends React.Component {
             <div class="row">
                 <div class="col w-3 left">
                     <div class="logo">
-                        <a href="/"><img alt="logo"src="https://1000logos.net/wp-content/uploads/2020/10/University-of-Southern-California-logo-640x384.png"/></a>
+                        <a href="/"><img alt="logo"src="https://1000logos.net/wp-content/uploads/2020/10/University-of-Southern-California-logo-640x384.png" width ="200px"height="50px" padding="30px" /></a>
                     </div>
                 </div>
                 <div class="col w-9">
@@ -19,8 +19,8 @@ class Header extends React.Component {
                     <nav id="nav">
                         <ul>
                             <li><a href="/" class="active">Home</a></li>
-                            <li><a href=".pages/About">About</a></li>
-                            <li><a href=".pages/Contact">Contact</a></li>
+                            <li><a href=".pages/About.js">About</a></li>
+                            <li><a href=".pages/Contact.js">Contact</a></li>
                         </ul>
                     </nav>
                 </div>
