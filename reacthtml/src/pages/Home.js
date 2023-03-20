@@ -26,7 +26,7 @@ class Home extends React.Component {
                             </div>
                             <h2>Hi I'm Laura </h2>
 
-                            <p>I work full time as a UX Researcher and I am graduating from USC Iovine & Young Academy this Summer!</p>
+                            <p>I am a full time UX Researcher and I am graduating from USC Iovine & Young Academy this Summer!</p>
 
                             <p><small><em>This Website is for IDSN 599: Front-End Programming. The date is 3/19/2023.</em></small></p>
                         </div>
