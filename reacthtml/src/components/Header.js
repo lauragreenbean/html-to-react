@@ -19,8 +19,8 @@ class Header extends React.Component {
                     <nav id="nav">
                         <ul>
                             <li><a href="/" class="active">Home</a></li>
-                            <li><a href="/about.html">About</a></li>
-                            <li><a href="/contact.html">Contact</a></li>
+                            <li><a href=".pages/About">About</a></li>
+                            <li><a href=".pages/Contact">Contact</a></li>
                         </ul>
                     </nav>
                 </div>

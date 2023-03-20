@@ -15,15 +15,21 @@ class Home extends React.Component {
                     </div>
                     <div class="col w-5">
                         <div class="card">
-                            <h2>Join Our Mailing List</h2>
-                            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima eum, molestias animi aliquam.</p>
-                            <form action="">
-                                <input type="text" placeholder="First Name"/>
-                                <input type="text" placeholder="Last Name"/>
-                                <input type="text" placeholder="Email Address"/>
-                                <p class="text-center"><button type="submit">Submit</button></p>
-                            </form>
-                            <p><small><em>Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima eum, molestias animi aliquam ipsum architecto unde ut, neque quo laborum deserunt veritatis repellendus fugit dolore quisquam, quas quam porro rem.</em></small></p>
+                            <h2>Hi I'm Laura </h2>
+                            <div>
+                            <div >
+                            <p>I work full time as a UX Researcher and I am graduating from USC Iovine & Young Academy this Summer!</p>
+
+                                <img id="profile" alt= "profilepic"src= "https://media.licdn.com/dms/image/C5603AQEQojqJrODUsw/profile-displayphoto-shrink_800_800/0/1652891505554?e=1684972800&v=beta&t=u5tzT5dKR-_8rgRV0xJeyIYJrmBaUHecVx40MJWI7hU"
+                                 width="250" height="250" float="right">
+                                </img>  
+
+                            </div> 
+                            </div>
+                            <div>
+                                                         
+                            </div>
+                            <p><small><em>This Website is for IDSN 599: Front-End Programming. The date is 3/19/2023.</em></small></p>
                         </div>
                     </div>
                 </div>
